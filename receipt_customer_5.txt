@@ -1,0 +1,5 @@
+The Rental Girfriend    x1      RM100
+
+Total: RM100
+Paid: RM200
+Change: RM100
